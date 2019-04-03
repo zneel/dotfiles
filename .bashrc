@@ -1,0 +1,5 @@
+alias ls='ls -G'
+alias l='ls -lG'
+alias la='ls -lahG'
+export PS1='\u@\h:\[\e[33m\]\w\[\e[0m\]\$ '
+export EDITOR='vim'
